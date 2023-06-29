@@ -35,4 +35,4 @@ grand_parent: KUICS
 - 위 다섯가지는 실제 논문에 적혀있는 순서 그대로 적은 것인데, 추천하는 방법은 논문을 순서대로 읽는 것이 아니다.
 우선 Abstract를 읽어서 어떤 논문인지, 내가 찾는 주제의 논문인지 파악하고, Introduction을 읽는게 아니라 __Conclusion으로 넘어간다__ 
   - 생각보다 Conclusion 단계에서 미적지근한 마무리로 끝을 내는 논문이 많나보다. 
-- 이후에는 Introduction -> Background -> Method 순서로 읽어나가면 되는데, Method 부분이 이 논문의 핵심인만큼 집중해서 읽어야다.
+- 이후에는 Introduction -> Background -> Method 순서로 읽어나가면 되는데, Method 부분이 이 논문의 핵심인만큼 집중해서 읽어야한다.
